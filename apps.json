@@ -1,0 +1,46 @@
+{
+  "name": "AstronxD's Apps",
+  "identifier": "com.astronxd.source",
+  "subtitle": "My HomeBrew apps",
+  "website": "https://github.com/AstronxD/Facebook-Glow",
+  "apps": [
+    {
+      "name": "Facebook (Glow)",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "dayanch96 (Glow) / AstronxD build",
+      "subtitle": "Facebook with the Glow tweak",
+      "localizedDescription": "Facebook 585.0.0 with Glow v1.3.1 injected: hide Reels and suggestions, download media, view stories anonymously, like confirmation. Long-press any tab for Glow settings.",
+      "iconURL": "https://raw.githubusercontent.com/AstronxD/Facebook-Glow/main/Sileo/icon.png",
+      "tintColor": "1877F2",
+      "versions": [
+        {
+          "version": "585.0.0",
+          "date": "2026-10-26T00:00:00Z",
+          "localizedDescription": "Facebook 585.0.0 + Glow v1.3.1",
+          "downloadURL": "https://github.com/AstronxD/Facebook-Glow/releases/download/glow-fb-v1.3.1/Glow_FB_v1.3.1.ipa",
+          "size": 225385202,
+          "minOSVersion": "15.0"
+        }
+      ]
+    },
+    {
+      "name": "Photos Backup",
+      "bundleIdentifier": "com.g8row.photosbackup",
+      "developerName": "g8row / AstronxD build",
+      "subtitle": "On-device Google Photos backup",
+      "localizedDescription": "Back up photos and videos to Google Photos from the iPhone. AstronxD build: keeps the screen awake while the app is open.",
+      "iconURL": "https://raw.githubusercontent.com/AstronxD/PhotosBackup/main/App/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "tintColor": "4285F4",
+      "versions": [
+        {
+          "version": "0.3.7",
+          "date": "2026-10-26T00:00:00Z",
+          "localizedDescription": "Photos Backup 0.3.7 with keep-awake while open",
+          "downloadURL": "https://github.com/AstronxD/PhotosBackup/releases/download/v1/PhotosBackup.ipa",
+          "size": 2715812,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ]
+}
