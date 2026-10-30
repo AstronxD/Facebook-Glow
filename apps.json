@@ -1,6 +1,7 @@
 {
   "name": "AstronxD's Apps",
   "identifier": "com.astronxd.source",
+  "iconURL": "https://raw.githubusercontent.com/AstronxD/Facebook-Glow/main/icon.jpg",
   "subtitle": "My HomeBrew apps",
   "website": "https://github.com/AstronxD/Facebook-Glow",
   "apps": [
