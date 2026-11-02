@@ -42,7 +42,7 @@
           "minOSVersion": "15.0"
         }
       ]
-    }
+    },
         {
       "name": "Facebook (Moe)",
       "bundleIdentifier": "com.facebook.Facebook",
