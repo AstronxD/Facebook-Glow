@@ -7,7 +7,7 @@
   "apps": [
     {
       "name": "Facebook (Glow)",
-      "bundleIdentifier": "com.facebook.Facebook",
+      "bundleIdentifier": "com.astronxd.Facebook",
       "developerName": "dayanch96 (Glow) / AstronxD build",
       "subtitle": "Facebook with the Glow tweak",
       "localizedDescription": "Facebook 585.0.0 with Glow v1.3.1 injected: hide Reels and suggestions, download media, view stories anonymously, like confirmation. Long-press any tab for Glow settings.",
@@ -39,6 +39,25 @@
           "localizedDescription": "Photos Backup 0.3.7 with keep-awake while open",
           "downloadURL": "https://github.com/AstronxD/PhotosBackup/releases/download/v1/PhotosBackup.ipa",
           "size": 2715812,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+        {
+      "name": "Facebook (Moe)",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "Moe / AstronxD build",
+      "subtitle": "Moe iQ 1.2 and Nexus",
+      "localizedDescription": "Facebook 584.0.0 with Moe iQ 1.2 and Nexus",
+      "iconURL": "https://raw.githubusercontent.com/AstronxD/Facebook-Glow/main/Sileo/moe.jpg",
+      "tintColor": "1877F2",
+      "versions": [
+        {
+          "version": "584.0.0",
+          "date": "2026-10-26T00:00:00Z",
+          "localizedDescription": "Facebook 584.0.0 + Moe iQ 1.2 + Nexus",
+          "downloadURL": "hhttps://github.com/AstronxD/Facebook-Glow/releases/download/glow-fb-v1.3.1/moe.ipa",
+          "size": 225385202,
           "minOSVersion": "15.0"
         }
       ]
